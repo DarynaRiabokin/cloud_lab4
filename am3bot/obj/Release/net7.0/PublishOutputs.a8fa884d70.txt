@@ -1,0 +1,12 @@
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.exe
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.dll
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.deps.json
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.runtimeconfig.json
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\am3bot.pdb
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\daryn\OneDrive\Робочий стіл\am3bot\am3bot\obj\Release\net7.0\PubTmp\Out\Telegram.Bot.dll
